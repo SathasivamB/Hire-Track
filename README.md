@@ -78,6 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 / - npm install
+
 /server - npm install
 
 (if any) /function - npm install

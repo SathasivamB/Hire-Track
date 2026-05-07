@@ -1,0 +1,3497 @@
+{
+  "users": {
+    "rosansafeehaj24bct152@skasc.ac.in": {
+      "email": "rosansafeehaj24bct152@skasc.ac.in",
+      "password": "123456789",
+      "name": "Rosan Safeeha J",
+      "studentId": "24BCT152",
+      "department": "B.Sc CT",
+      "initials": "RJ",
+      "exp": 50,
+      "unlockedCompanies": [
+        "StartupInc",
+        "BYJU'S",
+        "Cognizant"
+      ],
+      "questionsAnswered": 60,
+      "accuracy": 69,
+      "streak": 0,
+      "history": [
+        {
+          "id": 1778164116810,
+          "company": "StartupInc",
+          "score": "16/20",
+          "accuracy": 80,
+          "date": "07 May"
+        },
+        {
+          "id": 1778164495642,
+          "company": "Infosys",
+          "score": "15/20",
+          "accuracy": 75,
+          "date": "07 May"
+        },
+        {
+          "id": 1778166380706,
+          "company": "BYJU'S",
+          "score": "16/20",
+          "accuracy": 80,
+          "date": "07 May"
+        }
+      ],
+      "editPermission": "none",
+      "totalExp": 1050
+    },
+    "abc24abc123@skasc.ac.in": {
+      "email": "abc24abc123@skasc.ac.in",
+      "password": "123456789",
+      "name": "Abc",
+      "studentId": "24abc123",
+      "department": "B.Sc CS",
+      "initials": "AC",
+      "exp": 0,
+      "unlockedCompanies": [
+        "StartupInc"
+      ],
+      "questionsAnswered": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "history": [],
+      "editPermission": "none"
+    }
+  },
+  "companies": {
+    "StartupInc": {
+      "id": "StartupInc",
+      "name": "StartupInc",
+      "type": "Basic",
+      "cost": 0,
+      "logo": "data:image/jpeg;base64,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",
+      "color": "#3b82f6"
+    },
+    "[24]7.ai": {
+      "id": "[24]7.ai",
+      "name": "[24]7.ai",
+      "type": "Intermediate",
+      "cost": 1000,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-247.ai_.jpg",
+      "color": "#3b82f6"
+    },
+    "Accenture": {
+      "id": "Accenture",
+      "name": "Accenture",
+      "type": "Intermediate",
+      "cost": 1000,
+      "logo": "data:image/png;base64,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",
+      "color": "#3b82f6"
+    },
+    "BYJU'S": {
+      "id": "BYJU'S",
+      "name": "BYJU'S",
+      "type": "Basic",
+      "cost": 500,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-Byjus.jpg",
+      "color": "#3b82f6"
+    },
+    "Cognizant": {
+      "id": "Cognizant",
+      "name": "Cognizant",
+      "type": "Intermediate",
+      "cost": 1000,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-Cognizant.jpg",
+      "color": "#3b82f6"
+    },
+    "Deloitte.": {
+      "id": "Deloitte.",
+      "name": "Deloitte.",
+      "type": "Intermediate",
+      "cost": 1500,
+      "logo": "data:image/jpeg;base64,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",
+      "color": "#3b82f6"
+    },
+    "IBM": {
+      "id": "IBM",
+      "name": "IBM",
+      "type": "Intermediate",
+      "cost": 1000,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-IBM.jpg",
+      "color": "#3b82f6"
+    },
+    "Infosys": {
+      "id": "Infosys",
+      "name": "Infosys",
+      "type": "Intermediate",
+      "cost": 800,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-Infosys.jpg",
+      "color": "#3b82f6"
+    },
+    "Wipro": {
+      "id": "Wipro",
+      "name": "Wipro",
+      "type": "Intermediate",
+      "cost": 2000,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-Wipro.jpg",
+      "color": "#3b82f6"
+    },
+    "ZOHO": {
+      "id": "ZOHO",
+      "name": "ZOHO",
+      "type": "FAANG",
+      "cost": 2500,
+      "logo": "https://skasc.ac.in/wp-content/uploads/2024/10/Skasc-ZOHO.jpg",
+      "color": "#3b82f6"
+    }
+  },
+  "questions": {
+    "startup-1778162803277-0": {
+      "company": "StartupInc",
+      "type": "Logic",
+      "text": "If all pens are stationery items and all stationery items are useful, then pens are:",
+      "options": [
+        "Toys",
+        "Useful",
+        "Books",
+        "Electronics"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-0"
+    },
+    "startup-1778162803277-1": {
+      "company": "StartupInc",
+      "type": "Logic",
+      "text": "Find the next number: 1, 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "35",
+        "36",
+        "49"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-1"
+    },
+    "startup-1778162803277-2": {
+      "company": "StartupInc",
+      "type": "Logic",
+      "text": "Which word does not belong?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Mango"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-2"
+    },
+    "startup-1778162803277-3": {
+      "company": "StartupInc",
+      "type": "Logic",
+      "text": "If SOUTH is coded as HTUOS, then NORTH is coded as:",
+      "options": [
+        "HTRON",
+        "NROTH",
+        "TORHN",
+        "HORNT"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "startup-1778162803277-3"
+    },
+    "startup-1778162803277-4": {
+      "company": "StartupInc",
+      "type": "Logic",
+      "text": "A man walks 5 km north and then 3 km east. In which direction is he from the starting point?",
+      "options": [
+        "South-East",
+        "North-East",
+        "South-West",
+        "North-West"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-4"
+    },
+    "startup-1778162803277-5": {
+      "company": "StartupInc",
+      "type": "Quant",
+      "text": "What is 15% of 300?",
+      "options": [
+        "30",
+        "45",
+        "50",
+        "60"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-5"
+    },
+    "startup-1778162803277-6": {
+      "company": "StartupInc",
+      "type": "Quant",
+      "text": "A car travels 240 km in 4 hours. What is its speed?",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "80 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-6"
+    },
+    "startup-1778162803277-7": {
+      "company": "StartupInc",
+      "type": "Quant",
+      "text": "Solve: 5x = 45",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-7"
+    },
+    "startup-1778162803277-8": {
+      "company": "StartupInc",
+      "type": "Quant",
+      "text": "The average of 10, 20, and 30 is:",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-8"
+    },
+    "startup-1778162803277-9": {
+      "company": "StartupInc",
+      "type": "Quant",
+      "text": "What is the square root of 169?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-9"
+    },
+    "startup-1778162803277-10": {
+      "company": "StartupInc",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Brave”.",
+      "options": [
+        "Coward",
+        "Bold",
+        "Weak",
+        "Silent"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-10"
+    },
+    "startup-1778162803277-11": {
+      "company": "StartupInc",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Ancient”.",
+      "options": [
+        "Old",
+        "Historic",
+        "Modern",
+        "Traditional"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-11"
+    },
+    "startup-1778162803277-12": {
+      "company": "StartupInc",
+      "type": "Verbal",
+      "text": "Fill in the blank: They _____ football every evening.",
+      "options": [
+        "plays",
+        "played",
+        "play",
+        "playing"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-12"
+    },
+    "startup-1778162803277-13": {
+      "company": "StartupInc",
+      "type": "Verbal",
+      "text": "Choose the correct sentence.",
+      "options": [
+        "She go to school daily.",
+        "She goes to school daily.",
+        "She going to school daily.",
+        "She gone to school daily."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-13"
+    },
+    "startup-1778162803277-14": {
+      "company": "StartupInc",
+      "type": "Verbal",
+      "text": "What is the meaning of “Hit the sack”?",
+      "options": [
+        "Start working",
+        "Go to sleep",
+        "Get angry",
+        "Play a game"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-14"
+    },
+    "startup-1778162803277-15": {
+      "company": "StartupInc",
+      "type": "DSA",
+      "text": "Which data structure uses LIFO?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Tree"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-15"
+    },
+    "startup-1778162803277-16": {
+      "company": "StartupInc",
+      "type": "DSA",
+      "text": "What is the worst-case complexity of linear search?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n²)"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-16"
+    },
+    "startup-1778162803277-17": {
+      "company": "StartupInc",
+      "type": "DSA",
+      "text": "Which sorting algorithm repeatedly swaps adjacent elements?",
+      "options": [
+        "Merge Sort",
+        "Bubble Sort",
+        "Quick Sort",
+        "Heap Sort"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-17"
+    },
+    "startup-1778162803277-18": {
+      "company": "StartupInc",
+      "type": "DSA",
+      "text": "Which traversal method visits Root → Left → Right?",
+      "options": [
+        "Postorder",
+        "Inorder",
+        "Preorder",
+        "BFS"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-18"
+    },
+    "startup-1778162803277-19": {
+      "company": "StartupInc",
+      "type": "DSA",
+      "text": "Which data structure is best for implementing recursion?",
+      "options": [
+        "Queue",
+        "Graph",
+        "Stack",
+        "Linked List"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-19"
+    },
+    "startup-1778162803277-20": {
+      "company": "StartupInc",
+      "type": "System Design",
+      "text": "What is the purpose of caching?",
+      "options": [
+        "Slow down systems",
+        "Store data",
+        "Delete files",
+        "Encrypt passwords"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-20"
+    },
+    "startup-1778162803277-21": {
+      "company": "StartupInc",
+      "type": "System Design",
+      "text": "Which architecture breaks applications into smaller services?",
+      "options": [
+        "Monolithic",
+        "Microservices",
+        "Layered",
+        "Peer-to-Peer"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-21"
+    },
+    "startup-1778162803277-22": {
+      "company": "StartupInc",
+      "type": "System Design",
+      "text": "What does API stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Advanced Program Internet",
+        "Automated Program Integration",
+        "Applied Processing Interface"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "startup-1778162803277-22"
+    },
+    "startup-1778162803277-23": {
+      "company": "StartupInc",
+      "type": "System Design",
+      "text": "Which database is relational?",
+      "options": [
+        "MongoDB",
+        "Redis",
+        "MySQL",
+        "Cassandra"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-23"
+    },
+    "startup-1778162803277-24": {
+      "company": "StartupInc",
+      "type": "System Design",
+      "text": "What is the role of a CDN?",
+      "options": [
+        "Store passwords",
+        "Deliver content faster",
+        "Compile code",
+        "Run databases"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-24"
+    },
+    "startup-1778162803277-25": {
+      "company": "StartupInc",
+      "type": "Technical",
+      "text": "Which HTML tag is used for hyperlinks?",
+      "options": [
+        "<div>",
+        "<a>",
+        "<p>",
+        "<h1>"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "startup-1778162803277-25"
+    },
+    "startup-1778162803277-26": {
+      "company": "StartupInc",
+      "type": "Technical",
+      "text": "Which CSS property changes text color?",
+      "options": [
+        "background",
+        "font-size",
+        "color",
+        "border"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-26"
+    },
+    "startup-1778162803277-27": {
+      "company": "StartupInc",
+      "type": "Technical",
+      "text": "Which JavaScript keyword declares a variable?",
+      "options": [
+        "int",
+        "string",
+        "let",
+        "define"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-27"
+    },
+    "startup-1778162803277-28": {
+      "company": "StartupInc",
+      "type": "Technical",
+      "text": "Which protocol is used to securely browse websites?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "startup-1778162803277-28"
+    },
+    "startup-1778162803277-29": {
+      "company": "StartupInc",
+      "type": "Technical",
+      "text": "Which SQL command retrieves data from a database?",
+      "options": [
+        "INSERT",
+        "DELETE",
+        "UPDATE",
+        "SELECT"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "startup-1778162803277-29"
+    },
+    "247ai-1778162933289-0": {
+      "company": "[24]7.ai",
+      "type": "Logic",
+      "text": "Find the next number in the series: 2, 4, 8, 16, ?",
+      "options": [
+        "18",
+        "24",
+        "32",
+        "64"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-0"
+    },
+    "247ai-1778162933289-1": {
+      "company": "[24]7.ai",
+      "type": "Logic",
+      "text": "If “TABLE” is coded as “UBCMF”, then “CHAIR” is coded as:",
+      "options": [
+        "DIBJS",
+        "DIBKT",
+        "DJBJS",
+        "EIBJS"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "247ai-1778162933289-1"
+    },
+    "247ai-1778162933289-2": {
+      "company": "[24]7.ai",
+      "type": "Logic",
+      "text": "A man walks 10 km north, then 5 km east. In which direction is he from the starting point?",
+      "options": [
+        "South-East",
+        "North-East",
+        "North-West",
+        "South-West"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-2"
+    },
+    "247ai-1778162933289-3": {
+      "company": "[24]7.ai",
+      "type": "Logic",
+      "text": "Which number is odd one out? 3, 5, 7, 12, 13",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "247ai-1778162933289-3"
+    },
+    "247ai-1778162933289-4": {
+      "company": "[24]7.ai",
+      "type": "Logic",
+      "text": "If all apples are fruits and all fruits are healthy, then apples are:",
+      "options": [
+        "Vegetables",
+        "Healthy",
+        "Junk food",
+        "Seeds"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-4"
+    },
+    "247ai-1778162933289-5": {
+      "company": "[24]7.ai",
+      "type": "Quant",
+      "text": "What is 20% of 500?",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-5"
+    },
+    "247ai-1778162933289-6": {
+      "company": "[24]7.ai",
+      "type": "Quant",
+      "text": "A train covers 180 km in 3 hours. What is its speed?",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "70 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-6"
+    },
+    "247ai-1778162933289-7": {
+      "company": "[24]7.ai",
+      "type": "Quant",
+      "text": "Solve: 3x + 6 = 21",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-7"
+    },
+    "247ai-1778162933289-8": {
+      "company": "[24]7.ai",
+      "type": "Quant",
+      "text": "The average of 15, 20, and 25 is:",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "25"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-8"
+    },
+    "247ai-1778162933289-9": {
+      "company": "[24]7.ai",
+      "type": "Quant",
+      "text": "What is the square root of 225?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "247ai-1778162933289-9"
+    },
+    "247ai-1778162933289-10": {
+      "company": "[24]7.ai",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Smart”.",
+      "options": [
+        "Intelligent",
+        "Weak",
+        "Lazy",
+        "Slow"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "247ai-1778162933289-10"
+    },
+    "247ai-1778162933289-11": {
+      "company": "[24]7.ai",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Success”.",
+      "options": [
+        "Achievement",
+        "Failure",
+        "Progress",
+        "Growth"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-11"
+    },
+    "247ai-1778162933289-12": {
+      "company": "[24]7.ai",
+      "type": "Verbal",
+      "text": "Fill in the blank: She _____ to office every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-12"
+    },
+    "247ai-1778162933289-13": {
+      "company": "[24]7.ai",
+      "type": "Verbal",
+      "text": "Choose the correct sentence.",
+      "options": [
+        "He don’t play cricket.",
+        "He doesn’t plays cricket.",
+        "He doesn’t play cricket.",
+        "He not play cricket."
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-13"
+    },
+    "247ai-1778162933289-14": {
+      "company": "[24]7.ai",
+      "type": "Verbal",
+      "text": "What does “Once in a blue moon” mean?",
+      "options": [
+        "Daily",
+        "Rarely",
+        "Quickly",
+        "Never"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-14"
+    },
+    "247ai-1778162933289-15": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "A customer is angry about delayed delivery. What should you do first?",
+      "options": [
+        "Disconnect the call",
+        "Argue with customer",
+        "Listen calmly and apologize",
+        "Ignore the issue"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-15"
+    },
+    "247ai-1778162933289-16": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "Which skill is most important for customer support?",
+      "options": [
+        "Coding",
+        "Communication",
+        "Drawing",
+        "Singing"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-16"
+    },
+    "247ai-1778162933289-17": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "What is the best way to handle customer complaints?",
+      "options": [
+        "Interrupt the customer",
+        "Stay polite and solve the issue",
+        "Blame the company",
+        "End the call quickly"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-17"
+    },
+    "247ai-1778162933289-18": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "What should you avoid during a support call?",
+      "options": [
+        "Listening",
+        "Politeness",
+        "Rude language",
+        "Patience"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-18"
+    },
+    "247ai-1778162933289-19": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "If you don’t know the answer to a customer query, you should:",
+      "options": [
+        "Guess randomly",
+        "Transfer or ask senior support",
+        "Disconnect the call",
+        "Ignore the question"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-19"
+    },
+    "247ai-1778162933289-20": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "Which shortcut is used to copy text in Windows?",
+      "options": [
+        "Ctrl + X",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + Z"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-20"
+    },
+    "247ai-1778162933289-21": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "What does CPU stand for?",
+      "options": [
+        "Central Process Unit",
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Control Processing User"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-21"
+    },
+    "247ai-1778162933289-22": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "Which device is used to input text into a computer?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-22"
+    },
+    "247ai-1778162933289-23": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "Which protocol is secure for websites?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "247ai-1778162933289-23"
+    },
+    "247ai-1778162933289-24": {
+      "company": "[24]7.ai",
+      "type": "Technical",
+      "text": "Which software is commonly used for video meetings?",
+      "options": [
+        "Paint",
+        "Zoom",
+        "Calculator",
+        "Notepad"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "247ai-1778162933289-24"
+    },
+    "byjus-1778163127029-0": {
+      "company": "BYJU'S",
+      "type": "Logic",
+      "text": "Find the next number in the series: 3, 6, 12, 24, ?",
+      "options": [
+        "36",
+        "42",
+        "48",
+        "54"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-0"
+    },
+    "byjus-1778163127029-1": {
+      "company": "BYJU'S",
+      "type": "Logic",
+      "text": "If “TEACH” is coded as “UFBDI”, then “LEARN” is coded as:",
+      "options": [
+        "MFBSO",
+        "MFBRN",
+        "MGBSO",
+        "NFBRO"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "byjus-1778163127029-1"
+    },
+    "byjus-1778163127029-2": {
+      "company": "BYJU'S",
+      "type": "Logic",
+      "text": "A student walks 4 km east and then 3 km north. In which direction is the student from the starting point?",
+      "options": [
+        "South-East",
+        "North-East",
+        "South-West",
+        "North-West"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-2"
+    },
+    "byjus-1778163127029-3": {
+      "company": "BYJU'S",
+      "type": "Logic",
+      "text": "Which number does not belong in the series? 2, 4, 8, 16, 31, 64",
+      "options": [
+        "8",
+        "16",
+        "31",
+        "64"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-3"
+    },
+    "byjus-1778163127029-4": {
+      "company": "BYJU'S",
+      "type": "Logic",
+      "text": "If all teachers are educated and some educated people are writers, then:",
+      "options": [
+        "All writers are teachers",
+        "Teachers are educated",
+        "All educated people are teachers",
+        "Writers are educated"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-4"
+    },
+    "byjus-1778163127029-5": {
+      "company": "BYJU'S",
+      "type": "Quant",
+      "text": "What is 18% of 500?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-5"
+    },
+    "byjus-1778163127029-6": {
+      "company": "BYJU'S",
+      "type": "Quant",
+      "text": "A bike travels 240 km in 4 hours. What is its speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-6"
+    },
+    "byjus-1778163127029-7": {
+      "company": "BYJU'S",
+      "type": "Quant",
+      "text": "Solve: 7x = 56",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-7"
+    },
+    "byjus-1778163127029-8": {
+      "company": "BYJU'S",
+      "type": "Quant",
+      "text": "The average of 10, 20, 30, and 40 is:",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-8"
+    },
+    "byjus-1778163127029-9": {
+      "company": "BYJU'S",
+      "type": "Quant",
+      "text": "A product costs ₹800 and is sold for ₹1000. Find the profit percentage.",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-9"
+    },
+    "byjus-1778163127029-10": {
+      "company": "BYJU'S",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Motivate”.",
+      "options": [
+        "Discourage",
+        "Inspire",
+        "Ignore",
+        "Refuse"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-10"
+    },
+    "byjus-1778163127029-11": {
+      "company": "BYJU'S",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Generous”.",
+      "options": [
+        "Kind",
+        "Helpful",
+        "Selfish",
+        "Honest"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-11"
+    },
+    "byjus-1778163127029-12": {
+      "company": "BYJU'S",
+      "type": "Verbal",
+      "text": "Fill in the blank: They _____ preparing for exams.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-12"
+    },
+    "byjus-1778163127029-13": {
+      "company": "BYJU'S",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "He have completed the task.",
+        "He has completed the task.",
+        "He completed has the task.",
+        "He having completed the task."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-13"
+    },
+    "byjus-1778163127029-14": {
+      "company": "BYJU'S",
+      "type": "Verbal",
+      "text": "What does the idiom “Piece of cake” mean?",
+      "options": [
+        "Difficult task",
+        "Easy task",
+        "Expensive item",
+        "Sweet dish"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-14"
+    },
+    "byjus-1778163127029-15": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "A parent is unsure about purchasing a learning course. What should you do?",
+      "options": [
+        "Force them to buy",
+        "Politely explain the benefits",
+        "End the conversation",
+        "Ignore their doubts"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-15"
+    },
+    "byjus-1778163127029-16": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "Which skill is most important for a Business Development Associate role?",
+      "options": [
+        "Drawing",
+        "Communication",
+        "Cooking",
+        "Singing"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-16"
+    },
+    "byjus-1778163127029-17": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "What is the best way to convince a customer?",
+      "options": [
+        "Speaking rudely",
+        "Understanding customer needs",
+        "Arguing continuously",
+        "Ignoring questions"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-17"
+    },
+    "byjus-1778163127029-18": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "During a sales call, you should:",
+      "options": [
+        "Interrupt the customer",
+        "Listen actively",
+        "Speak aggressively",
+        "Rush the conversation"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-18"
+    },
+    "byjus-1778163127029-19": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "If a customer says “I need time to decide,” you should:",
+      "options": [
+        "Disconnect immediately",
+        "Respectfully follow up later",
+        "Force the sale",
+        "Ignore the customer"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-19"
+    },
+    "byjus-1778163127029-20": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "Which application is commonly used for online classes?",
+      "options": [
+        "Zoom",
+        "Paint",
+        "Calculator",
+        "Notepad"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "byjus-1778163127029-20"
+    },
+    "byjus-1778163127029-21": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Control Process User"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "byjus-1778163127029-21"
+    },
+    "byjus-1778163127029-22": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "Which shortcut is used to paste copied text?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + Z"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "byjus-1778163127029-22"
+    },
+    "byjus-1778163127029-23": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "Which file format is commonly used for presentations?",
+      "options": [
+        ".mp3",
+        ".ppt",
+        ".jpg",
+        ".exe"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-23"
+    },
+    "byjus-1778163127029-24": {
+      "company": "BYJU'S",
+      "type": "Technical",
+      "text": "Which internet protocol is secure?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "byjus-1778163127029-24"
+    },
+    "cognizant-1778163210602-0": {
+      "company": "Cognizant",
+      "type": "Logic",
+      "text": "Find the next number in the series: 1, 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "35",
+        "36",
+        "49"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-0"
+    },
+    "cognizant-1778163210602-1": {
+      "company": "Cognizant",
+      "type": "Logic",
+      "text": "If “TRAIN” is coded as “USBJO”, then “PLANE” is coded as:",
+      "options": [
+        "QMBOF",
+        "QMBOE",
+        "QLBOD",
+        "PMBOF"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-1"
+    },
+    "cognizant-1778163210602-2": {
+      "company": "Cognizant",
+      "type": "Logic",
+      "text": "A man walks 6 km north, then 8 km east. In which direction is he from the starting point?",
+      "options": [
+        "North-West",
+        "South-East",
+        "North-East",
+        "South-West"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-2"
+    },
+    "cognizant-1778163210602-3": {
+      "company": "Cognizant",
+      "type": "Logic",
+      "text": "Which number is the odd one out? 7, 14, 21, 29, 35",
+      "options": [
+        "14",
+        "21",
+        "29",
+        "35"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-3"
+    },
+    "cognizant-1778163210602-4": {
+      "company": "Cognizant",
+      "type": "Logic",
+      "text": "If all programmers are logical thinkers and some logical thinkers are gamers, then:",
+      "options": [
+        "All gamers are programmers",
+        "Programmers are logical thinkers",
+        "Gamers are programmers",
+        "All logical thinkers are programmers"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-4"
+    },
+    "cognizant-1778163210602-5": {
+      "company": "Cognizant",
+      "type": "Quant",
+      "text": "What is 40% of 250?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-5"
+    },
+    "cognizant-1778163210602-6": {
+      "company": "Cognizant",
+      "type": "Quant",
+      "text": "A bus travels 300 km in 5 hours. What is its speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-6"
+    },
+    "cognizant-1778163210602-7": {
+      "company": "Cognizant",
+      "type": "Quant",
+      "text": "Solve: 5x + 10 = 35",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-7"
+    },
+    "cognizant-1778163210602-8": {
+      "company": "Cognizant",
+      "type": "Quant",
+      "text": "The average of 14, 18, 22, and 26 is:",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-8"
+    },
+    "cognizant-1778163210602-9": {
+      "company": "Cognizant",
+      "type": "Quant",
+      "text": "A product is bought for ₹1200 and sold for ₹1500. Find the profit percentage.",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-9"
+    },
+    "cognizant-1778163210602-10": {
+      "company": "Cognizant",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Accurate”.",
+      "options": [
+        "Correct",
+        "Wrong",
+        "False",
+        "Weak"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-10"
+    },
+    "cognizant-1778163210602-11": {
+      "company": "Cognizant",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Flexible”.",
+      "options": [
+        "Soft",
+        "Rigid",
+        "Elastic",
+        "Smooth"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-11"
+    },
+    "cognizant-1778163210602-12": {
+      "company": "Cognizant",
+      "type": "Verbal",
+      "text": "Fill in the blank: The employees _____ attending the meeting.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-12"
+    },
+    "cognizant-1778163210602-13": {
+      "company": "Cognizant",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "They has completed the project.",
+        "They have completed the project.",
+        "They having completed the project.",
+        "They completes the project."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-13"
+    },
+    "cognizant-1778163210602-14": {
+      "company": "Cognizant",
+      "type": "Verbal",
+      "text": "What does the idiom “On cloud nine” mean?",
+      "options": [
+        "Feeling sad",
+        "Feeling nervous",
+        "Feeling very happy",
+        "Feeling angry"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-14"
+    },
+    "cognizant-1778163210602-15": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which data structure follows LIFO?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Tree",
+        "Graph"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-15"
+    },
+    "cognizant-1778163210602-16": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "What is the time complexity of linear search?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n²)"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-16"
+    },
+    "cognizant-1778163210602-17": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which sorting algorithm repeatedly compares adjacent elements?",
+      "options": [
+        "Merge Sort",
+        "Quick Sort",
+        "Bubble Sort",
+        "Heap Sort"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-17"
+    },
+    "cognizant-1778163210602-18": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which traversal method visits Left → Root → Right?",
+      "options": [
+        "Preorder",
+        "Postorder",
+        "Inorder",
+        "BFS"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-18"
+    },
+    "cognizant-1778163210602-19": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which keyword is used to define a function in Python?",
+      "options": [
+        "function",
+        "define",
+        "fun",
+        "def"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-19"
+    },
+    "cognizant-1778163210602-20": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which language is primarily used for web styling?",
+      "options": [
+        "HTML",
+        "CSS",
+        "Java",
+        "Python"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-20"
+    },
+    "cognizant-1778163210602-21": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Sequential Query Logic",
+        "Server Query List",
+        "System Query Language"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-21"
+    },
+    "cognizant-1778163210602-22": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which protocol securely transfers web data?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-22"
+    },
+    "cognizant-1778163210602-23": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which database is a NoSQL database?",
+      "options": [
+        "Oracle",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-23"
+    },
+    "cognizant-1778163210602-24": {
+      "company": "Cognizant",
+      "type": "Technical",
+      "text": "Which JavaScript keyword declares a block-scoped variable?",
+      "options": [
+        "var",
+        "let",
+        "static",
+        "define"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "cognizant-1778163210602-24"
+    },
+    "deloitte-1778163335580-0": {
+      "company": "Deloitte.",
+      "type": "Logic",
+      "text": "Find the next number in the series: 2, 5, 10, 17, 26, ?",
+      "options": [
+        "35",
+        "37",
+        "40",
+        "45"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-0"
+    },
+    "deloitte-1778163335580-1": {
+      "company": "Deloitte.",
+      "type": "Logic",
+      "text": "If “AUDIT” is coded as “BVEJU”, then “RISK” is coded as:",
+      "options": [
+        "SJTL",
+        "TJSL",
+        "SJSM",
+        "TKTL"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-1"
+    },
+    "deloitte-1778163335580-2": {
+      "company": "Deloitte.",
+      "type": "Logic",
+      "text": "A person walks 5 km south and then 12 km east. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "South-East",
+        "North-West",
+        "South-West"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-2"
+    },
+    "deloitte-1778163335580-3": {
+      "company": "Deloitte.",
+      "type": "Logic",
+      "text": "Which number does not belong in the series? 4, 9, 16, 25, 35, 49",
+      "options": [
+        "16",
+        "25",
+        "35",
+        "49"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-3"
+    },
+    "deloitte-1778163335580-4": {
+      "company": "Deloitte.",
+      "type": "Logic",
+      "text": "If all consultants are professionals and some professionals are managers, then:",
+      "options": [
+        "All managers are consultants",
+        "Consultants are professionals",
+        "Managers are consultants",
+        "All professionals are consultants"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-4"
+    },
+    "deloitte-1778163335580-5": {
+      "company": "Deloitte.",
+      "type": "Quant",
+      "text": "What is 12.5% of 640?",
+      "options": [
+        "70",
+        "75",
+        "80",
+        "85"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-5"
+    },
+    "deloitte-1778163335580-6": {
+      "company": "Deloitte.",
+      "type": "Quant",
+      "text": "A train covers 360 km in 6 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-6"
+    },
+    "deloitte-1778163335580-7": {
+      "company": "Deloitte.",
+      "type": "Quant",
+      "text": "Solve: 6x − 12 = 24",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-7"
+    },
+    "deloitte-1778163335580-8": {
+      "company": "Deloitte.",
+      "type": "Quant",
+      "text": "The average of 18, 22, 26, and 34 is:",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-8"
+    },
+    "deloitte-1778163335580-9": {
+      "company": "Deloitte.",
+      "type": "Quant",
+      "text": "A laptop costs ₹50,000 and is sold for ₹60,000. Find the profit percentage.",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-9"
+    },
+    "deloitte-1778163335580-10": {
+      "company": "Deloitte.",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Analyze”.",
+      "options": [
+        "Ignore",
+        "Examine",
+        "Forget",
+        "Reject"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-10"
+    },
+    "deloitte-1778163335580-11": {
+      "company": "Deloitte.",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Complex”.",
+      "options": [
+        "Difficult",
+        "Simple",
+        "Advanced",
+        "Complicated"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-11"
+    },
+    "deloitte-1778163335580-12": {
+      "company": "Deloitte.",
+      "type": "Verbal",
+      "text": "Fill in the blank: The manager _____ reviewing the report.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-12"
+    },
+    "deloitte-1778163335580-13": {
+      "company": "Deloitte.",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "The employees was working late.",
+        "The employees were working late.",
+        "The employees is working late.",
+        "The employees has working late."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-13"
+    },
+    "deloitte-1778163335580-14": {
+      "company": "Deloitte.",
+      "type": "Verbal",
+      "text": "What does the idiom “Think outside the box” mean?",
+      "options": [
+        "Avoid work",
+        "Think creatively",
+        "Stay silent",
+        "Follow rules strictly"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-14"
+    },
+    "deloitte-1778163335580-15": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "What is the primary purpose of data analysis in business?",
+      "options": [
+        "Increase confusion",
+        "Support decision-making",
+        "Delay projects",
+        "Reduce communication"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-15"
+    },
+    "deloitte-1778163335580-16": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which skill is most important for consulting roles?",
+      "options": [
+        "Analytical thinking",
+        "Painting",
+        "Singing",
+        "Cooking"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-16"
+    },
+    "deloitte-1778163335580-17": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "If project cost increases but revenue remains constant, profit will:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Stay same",
+        "Double"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-17"
+    },
+    "deloitte-1778163335580-18": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which chart is best for comparing categories?",
+      "options": [
+        "Pie chart",
+        "Bar chart",
+        "Scatter plot",
+        "Histogram"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-18"
+    },
+    "deloitte-1778163335580-19": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which Microsoft Excel feature is used for calculations?",
+      "options": [
+        "Slides",
+        "Formulas",
+        "Animations",
+        "Templates"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-19"
+    },
+    "deloitte-1778163335580-20": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which language is commonly used for database queries?",
+      "options": [
+        "HTML",
+        "CSS",
+        "SQL",
+        "XML"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-20"
+    },
+    "deloitte-1778163335580-21": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which protocol is secure for internet communication?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-21"
+    },
+    "deloitte-1778163335580-22": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing User",
+        "Central Program Utility",
+        "Core Processing Unit"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-22"
+    },
+    "deloitte-1778163335580-23": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which database is relational?",
+      "options": [
+        "MongoDB",
+        "Cassandra",
+        "MySQL",
+        "Redis"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-23"
+    },
+    "deloitte-1778163335580-24": {
+      "company": "Deloitte.",
+      "type": "Technical",
+      "text": "Which programming language is widely used for data analysis?",
+      "options": [
+        "Python",
+        "HTML",
+        "CSS",
+        "XML"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "deloitte-1778163335580-24"
+    },
+    "ibm-1778163538899-0": {
+      "company": "IBM",
+      "type": "Logic",
+      "text": "Find the next number in the series: 1, 8, 27, 64, ?",
+      "options": [
+        "81",
+        "100",
+        "125",
+        "144"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-0"
+    },
+    "ibm-1778163538899-1": {
+      "company": "IBM",
+      "type": "Logic",
+      "text": "If “SYSTEM” is coded as “TZTUFN”, then “COMPUTER” is coded as:",
+      "options": [
+        "DPNQVUFS",
+        "DPNQVUFS",
+        "DPNRUVFS",
+        "DPMQVUFS"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "ibm-1778163538899-1"
+    },
+    "ibm-1778163538899-2": {
+      "company": "IBM",
+      "type": "Logic",
+      "text": "A person walks 7 km west and then 24 km north. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-2"
+    },
+    "ibm-1778163538899-3": {
+      "company": "IBM",
+      "type": "Logic",
+      "text": "Which number is the odd one out? 11, 22, 33, 44, 57, 66",
+      "options": [
+        "22",
+        "33",
+        "57",
+        "66"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-3"
+    },
+    "ibm-1778163538899-4": {
+      "company": "IBM",
+      "type": "Logic",
+      "text": "If all developers are programmers and all programmers are logical thinkers, then developers are:",
+      "options": [
+        "Designers",
+        "Logical thinkers",
+        "Managers",
+        "Analysts"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-4"
+    },
+    "ibm-1778163538899-5": {
+      "company": "IBM",
+      "type": "Quant",
+      "text": "What is 22% of 450?",
+      "options": [
+        "90",
+        "95",
+        "99",
+        "105"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-5"
+    },
+    "ibm-1778163538899-6": {
+      "company": "IBM",
+      "type": "Quant",
+      "text": "A train travels 420 km in 7 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-6"
+    },
+    "ibm-1778163538899-7": {
+      "company": "IBM",
+      "type": "Quant",
+      "text": "Solve: 9x + 6 = 51",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-7"
+    },
+    "ibm-1778163538899-8": {
+      "company": "IBM",
+      "type": "Quant",
+      "text": "The average of 25, 35, 45, and 55 is:",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-8"
+    },
+    "ibm-1778163538899-9": {
+      "company": "IBM",
+      "type": "Quant",
+      "text": "A product costs ₹1500 and is sold for ₹1800. Find the profit percentage.",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-9"
+    },
+    "ibm-1778163538899-10": {
+      "company": "IBM",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Innovative”.",
+      "options": [
+        "Creative",
+        "Lazy",
+        "Weak",
+        "Silent"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "ibm-1778163538899-10"
+    },
+    "ibm-1778163538899-11": {
+      "company": "IBM",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Expand”.",
+      "options": [
+        "Grow",
+        "Stretch",
+        "Shrink",
+        "Increase"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-11"
+    },
+    "ibm-1778163538899-12": {
+      "company": "IBM",
+      "type": "Verbal",
+      "text": "Fill in the blank: The engineers _____ working on the server issue.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-12"
+    },
+    "ibm-1778163538899-13": {
+      "company": "IBM",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "He have submitted the report.",
+        "He has submitted the report.",
+        "He submitting the report.",
+        "He submitted has the report."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-13"
+    },
+    "ibm-1778163538899-14": {
+      "company": "IBM",
+      "type": "Verbal",
+      "text": "What does the idiom “Burn the midnight oil” mean?",
+      "options": [
+        "Sleep early",
+        "Work late into the night",
+        "Waste time",
+        "Travel at night"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-14"
+    },
+    "ibm-1778163538899-15": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which data structure uses FIFO?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Graph"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-15"
+    },
+    "ibm-1778163538899-16": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "What is the time complexity of binary search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n²)",
+        "O(1)"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-16"
+    },
+    "ibm-1778163538899-17": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which sorting algorithm has divide-and-conquer approach?",
+      "options": [
+        "Bubble Sort",
+        "Merge Sort",
+        "Selection Sort",
+        "Insertion Sort"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-17"
+    },
+    "ibm-1778163538899-18": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which keyword is used to create a class in Java?",
+      "options": [
+        "define",
+        "struct",
+        "class",
+        "object"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-18"
+    },
+    "ibm-1778163538899-19": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which traversal uses a queue internally?",
+      "options": [
+        "DFS",
+        "BFS",
+        "Inorder",
+        "Postorder"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "ibm-1778163538899-19"
+    },
+    "ibm-1778163538899-20": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which language is mainly used for web page structure?",
+      "options": [
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-20"
+    },
+    "ibm-1778163538899-21": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Sequential Query Logic",
+        "Server Question Language",
+        "System Query List"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "ibm-1778163538899-21"
+    },
+    "ibm-1778163538899-22": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which protocol is secure for websites?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-22"
+    },
+    "ibm-1778163538899-23": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which database is NoSQL?",
+      "options": [
+        "Oracle",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "ibm-1778163538899-23"
+    },
+    "ibm-1778163538899-24": {
+      "company": "IBM",
+      "type": "Technical",
+      "text": "Which operating system is open source?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "ibm-1778163538899-24"
+    },
+    "infosys-1778163605735-0": {
+      "company": "Infosys",
+      "type": "Logic",
+      "text": "Find the next number in the series: 2, 5, 10, 17, 26, ?",
+      "options": [
+        "35",
+        "37",
+        "39",
+        "41"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-0"
+    },
+    "infosys-1778163605735-1": {
+      "company": "Infosys",
+      "type": "Logic",
+      "text": "If “INFOSYS” is coded as “JOGPTZT”, then “SYSTEM” is coded as:",
+      "options": [
+        "TZTUFN",
+        "TYSTFN",
+        "TZUTFM",
+        "TYTUFN"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "infosys-1778163605735-1"
+    },
+    "infosys-1778163605735-2": {
+      "company": "Infosys",
+      "type": "Logic",
+      "text": "A man walks 8 km north and then 6 km west. In which direction is he from the starting point?",
+      "options": [
+        "North-East",
+        "South-East",
+        "North-West",
+        "South-West"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-2"
+    },
+    "infosys-1778163605735-3": {
+      "company": "Infosys",
+      "type": "Logic",
+      "text": "Which number is the odd one out? 9, 18, 27, 36, 50, 54",
+      "options": [
+        "18",
+        "36",
+        "50",
+        "54"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-3"
+    },
+    "infosys-1778163605735-4": {
+      "company": "Infosys",
+      "type": "Logic",
+      "text": "If all coders are problem solvers and some problem solvers are gamers, then:",
+      "options": [
+        "All gamers are coders",
+        "Coders are problem solvers",
+        "Gamers are coders",
+        "All problem solvers are coders"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-4"
+    },
+    "infosys-1778163605735-5": {
+      "company": "Infosys",
+      "type": "Quant",
+      "text": "What is 15% of 800?",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-5"
+    },
+    "infosys-1778163605735-6": {
+      "company": "Infosys",
+      "type": "Quant",
+      "text": "A train covers 480 km in 8 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-6"
+    },
+    "infosys-1778163605735-7": {
+      "company": "Infosys",
+      "type": "Quant",
+      "text": "Solve: 7x − 14 = 35",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-7"
+    },
+    "infosys-1778163605735-8": {
+      "company": "Infosys",
+      "type": "Quant",
+      "text": "The average of 16, 20, 24, and 28 is:",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-8"
+    },
+    "infosys-1778163605735-9": {
+      "company": "Infosys",
+      "type": "Quant",
+      "text": "A mobile phone costs ₹20,000 and is sold for ₹24,000. Find the profit percentage.",
+      "options": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-9"
+    },
+    "infosys-1778163605735-10": {
+      "company": "Infosys",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Reliable”.",
+      "options": [
+        "Trustworthy",
+        "Weak",
+        "Lazy",
+        "Careless"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "infosys-1778163605735-10"
+    },
+    "infosys-1778163605735-11": {
+      "company": "Infosys",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Optimistic”.",
+      "options": [
+        "Positive",
+        "Hopeful",
+        "Pessimistic",
+        "Cheerful"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-11"
+    },
+    "infosys-1778163605735-12": {
+      "company": "Infosys",
+      "type": "Verbal",
+      "text": "Fill in the blank: The students _____ preparing for the exam.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-12"
+    },
+    "infosys-1778163605735-13": {
+      "company": "Infosys",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "She have completed her work.",
+        "She has completed her work.",
+        "She completed has her work.",
+        "She completing her work."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-13"
+    },
+    "infosys-1778163605735-14": {
+      "company": "Infosys",
+      "type": "Verbal",
+      "text": "What does the idiom “Hit the nail on the head” mean?",
+      "options": [
+        "Miss the target",
+        "Speak exactly right",
+        "Work slowly",
+        "Avoid responsibility"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-14"
+    },
+    "infosys-1778163605735-15": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "What will be the output? a = 10; b = 20; print(a + b)",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-15"
+    },
+    "infosys-1778163605735-16": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which loop is best when the number of iterations is known?",
+      "options": [
+        "while loop",
+        "do-while loop",
+        "for loop",
+        "nested loop"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-16"
+    },
+    "infosys-1778163605735-17": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which data structure follows FIFO?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Graph"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-17"
+    },
+    "infosys-1778163605735-18": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "What is the time complexity of binary search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n²)",
+        "O(1)"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-18"
+    },
+    "infosys-1778163605735-19": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which sorting algorithm compares adjacent elements repeatedly?",
+      "options": [
+        "Merge Sort",
+        "Bubble Sort",
+        "Quick Sort",
+        "Heap Sort"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-19"
+    },
+    "infosys-1778163605735-20": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which language is commonly used for web page structure?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Python"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "infosys-1778163605735-20"
+    },
+    "infosys-1778163605735-21": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "What does DBMS stand for?",
+      "options": [
+        "Database Management System",
+        "Data Backup Management System",
+        "Digital Base Management Server",
+        "Database Monitoring Service"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "infosys-1778163605735-21"
+    },
+    "infosys-1778163605735-22": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which protocol is secure for web communication?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-22"
+    },
+    "infosys-1778163605735-23": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which database is a NoSQL database?",
+      "options": [
+        "MySQL",
+        "Oracle",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "infosys-1778163605735-23"
+    },
+    "infosys-1778163605735-24": {
+      "company": "Infosys",
+      "type": "Technical",
+      "text": "Which keyword declares a constant in JavaScript?",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "define"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "infosys-1778163605735-24"
+    },
+    "wipro-1778163679927-0": {
+      "company": "Wipro",
+      "type": "Logic",
+      "text": "Find the next number in the series: 3, 7, 13, 21, 31, ?",
+      "options": [
+        "39",
+        "41",
+        "43",
+        "45"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-0"
+    },
+    "wipro-1778163679927-1": {
+      "company": "Wipro",
+      "type": "Logic",
+      "text": "If “WIPRO” is coded as “XJQSP”, then “CLOUD” is coded as:",
+      "options": [
+        "DMPVE",
+        "DLPVE",
+        "DMPVF",
+        "ELQWF"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "wipro-1778163679927-1"
+    },
+    "wipro-1778163679927-2": {
+      "company": "Wipro",
+      "type": "Logic",
+      "text": "A person walks 10 km east and then 6 km south. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "South-East",
+        "South-West",
+        "North-West"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "wipro-1778163679927-2"
+    },
+    "wipro-1778163679927-3": {
+      "company": "Wipro",
+      "type": "Logic",
+      "text": "Which number is the odd one out? 12, 24, 36, 50, 60",
+      "options": [
+        "24",
+        "36",
+        "50",
+        "60"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-3"
+    },
+    "wipro-1778163679927-4": {
+      "company": "Wipro",
+      "type": "Logic",
+      "text": "If all testers are engineers and some engineers are managers, then:",
+      "options": [
+        "All managers are testers",
+        "Testers are engineers",
+        "Managers are testers",
+        "All engineers are testers"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "wipro-1778163679927-4"
+    },
+    "wipro-1778163679927-5": {
+      "company": "Wipro",
+      "type": "Quant",
+      "text": "What is 35% of 600?",
+      "options": [
+        "180",
+        "190",
+        "200",
+        "210"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "wipro-1778163679927-5"
+    },
+    "wipro-1778163679927-6": {
+      "company": "Wipro",
+      "type": "Quant",
+      "text": "A car travels 360 km in 6 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-6"
+    },
+    "wipro-1778163679927-7": {
+      "company": "Wipro",
+      "type": "Quant",
+      "text": "Solve: 8x + 4 = 52",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-7"
+    },
+    "wipro-1778163679927-8": {
+      "company": "Wipro",
+      "type": "Quant",
+      "text": "The average of 14, 16, 18, and 20 is:",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-8"
+    },
+    "wipro-1778163679927-9": {
+      "company": "Wipro",
+      "type": "Quant",
+      "text": "A product costs ₹2500 and is sold for ₹3000. Find the profit percentage.",
+      "options": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-9"
+    },
+    "wipro-1778163679927-10": {
+      "company": "Wipro",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Efficient”.",
+      "options": [
+        "Productive",
+        "Weak",
+        "Slow",
+        "Lazy"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "wipro-1778163679927-10"
+    },
+    "wipro-1778163679927-11": {
+      "company": "Wipro",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Increase”.",
+      "options": [
+        "Expand",
+        "Grow",
+        "Reduce",
+        "Improve"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-11"
+    },
+    "wipro-1778163679927-12": {
+      "company": "Wipro",
+      "type": "Verbal",
+      "text": "Fill in the blank: The developers _____ fixing the issue.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-12"
+    },
+    "wipro-1778163679927-13": {
+      "company": "Wipro",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "He do not understand the concept.",
+        "He does not understands the concept.",
+        "He does not understand the concept.",
+        "He not understand the concept."
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-13"
+    },
+    "wipro-1778163679927-14": {
+      "company": "Wipro",
+      "type": "Verbal",
+      "text": "What does the idiom “A blessing in disguise” mean?",
+      "options": [
+        "A hidden problem",
+        "Something good that seemed bad initially",
+        "A lucky accident",
+        "A difficult task"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "wipro-1778163679927-14"
+    },
+    "wipro-1778163679927-15": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which data structure follows LIFO?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Tree",
+        "Graph"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "wipro-1778163679927-15"
+    },
+    "wipro-1778163679927-16": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "What is the time complexity of linear search?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n²)"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-16"
+    },
+    "wipro-1778163679927-17": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which sorting algorithm repeatedly swaps adjacent elements?",
+      "options": [
+        "Merge Sort",
+        "Quick Sort",
+        "Bubble Sort",
+        "Heap Sort"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-17"
+    },
+    "wipro-1778163679927-18": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which keyword is used to define a function in Python?",
+      "options": [
+        "function",
+        "define",
+        "def",
+        "func"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-18"
+    },
+    "wipro-1778163679927-19": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which traversal method uses a queue internally?",
+      "options": [
+        "DFS",
+        "BFS",
+        "Inorder",
+        "Postorder"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "wipro-1778163679927-19"
+    },
+    "wipro-1778163679927-20": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which language is mainly used for web page styling?",
+      "options": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Python"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-20"
+    },
+    "wipro-1778163679927-21": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Sequential Query Logic",
+        "System Query Language",
+        "Server Query List"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "wipro-1778163679927-21"
+    },
+    "wipro-1778163679927-22": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which protocol is secure for websites?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-22"
+    },
+    "wipro-1778163679927-23": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which database is NoSQL?",
+      "options": [
+        "MySQL",
+        "Oracle",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "wipro-1778163679927-23"
+    },
+    "wipro-1778163679927-24": {
+      "company": "Wipro",
+      "type": "Technical",
+      "text": "Which keyword is used to declare a variable in JavaScript?",
+      "options": [
+        "int",
+        "string",
+        "let",
+        "define"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "wipro-1778163679927-24"
+    },
+    "zoho-1778163802252-0": {
+      "company": "ZOHO",
+      "type": "Logic",
+      "text": "Find the next number in the series: 1, 2, 6, 24, 120, ?",
+      "options": [
+        "240",
+        "360",
+        "720",
+        "840"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-0"
+    },
+    "zoho-1778163802252-1": {
+      "company": "ZOHO",
+      "type": "Logic",
+      "text": "If “ZOHO” is coded as “APIP”, then “CODE” is coded as:",
+      "options": [
+        "DPEF",
+        "DQEF",
+        "EPFG",
+        "DPDF"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "zoho-1778163802252-1"
+    },
+    "zoho-1778163802252-2": {
+      "company": "ZOHO",
+      "type": "Logic",
+      "text": "A person walks 5 km north, 4 km east, and then 5 km south. In which direction is the person from the starting point?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "zoho-1778163802252-2"
+    },
+    "zoho-1778163802252-3": {
+      "company": "ZOHO",
+      "type": "Logic",
+      "text": "Which number is the odd one out? 8, 16, 24, 36, 40",
+      "options": [
+        "16",
+        "24",
+        "36",
+        "40"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-3"
+    },
+    "zoho-1778163802252-4": {
+      "company": "ZOHO",
+      "type": "Logic",
+      "text": "If all programmers are developers and all developers are logical thinkers, then programmers are:",
+      "options": [
+        "Designers",
+        "Logical thinkers",
+        "Managers",
+        "Analysts"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-4"
+    },
+    "zoho-1778163802252-5": {
+      "company": "ZOHO",
+      "type": "Quant",
+      "text": "What is 25% of 640?",
+      "options": [
+        "140",
+        "150",
+        "160",
+        "170"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-5"
+    },
+    "zoho-1778163802252-6": {
+      "company": "ZOHO",
+      "type": "Quant",
+      "text": "A car travels 420 km in 7 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-6"
+    },
+    "zoho-1778163802252-7": {
+      "company": "ZOHO",
+      "type": "Quant",
+      "text": "Solve: 9x − 18 = 45",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-7"
+    },
+    "zoho-1778163802252-8": {
+      "company": "ZOHO",
+      "type": "Quant",
+      "text": "The average of 18, 24, 30, and 36 is:",
+      "options": [
+        "24",
+        "25",
+        "27",
+        "28"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-8"
+    },
+    "zoho-1778163802252-9": {
+      "company": "ZOHO",
+      "type": "Quant",
+      "text": "A product costs ₹2000 and is sold for ₹2600. Find the profit percentage.",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-9"
+    },
+    "zoho-1778163802252-10": {
+      "company": "ZOHO",
+      "type": "Verbal",
+      "text": "Choose the synonym of “Creative”.",
+      "options": [
+        "Innovative",
+        "Lazy",
+        "Weak",
+        "Careless"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "zoho-1778163802252-10"
+    },
+    "zoho-1778163802252-11": {
+      "company": "ZOHO",
+      "type": "Verbal",
+      "text": "Choose the antonym of “Flexible”.",
+      "options": [
+        "Elastic",
+        "Adaptable",
+        "Rigid",
+        "Soft"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-11"
+    },
+    "zoho-1778163802252-12": {
+      "company": "ZOHO",
+      "type": "Verbal",
+      "text": "Fill in the blank: The developers _____ working on a new feature.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-12"
+    },
+    "zoho-1778163802252-13": {
+      "company": "ZOHO",
+      "type": "Verbal",
+      "text": "Choose the grammatically correct sentence.",
+      "options": [
+        "She have submitted the assignment.",
+        "She has submitted the assignment.",
+        "She submitting the assignment.",
+        "She submitted has the assignment."
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-13"
+    },
+    "zoho-1778163802252-14": {
+      "company": "ZOHO",
+      "type": "Verbal",
+      "text": "What does the idiom “Break the ice” mean?",
+      "options": [
+        "Damage something",
+        "Start a conversation comfortably",
+        "End a discussion",
+        "Become angry"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-14"
+    },
+    "zoho-1778163802252-15": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "What will be the output? x = 5; y = 3; print(x * y)",
+      "options": [
+        "8",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-15"
+    },
+    "zoho-1778163802252-16": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which data structure follows FIFO?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Graph"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-16"
+    },
+    "zoho-1778163802252-17": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "What is the time complexity of binary search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n²)",
+        "O(1)"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-17"
+    },
+    "zoho-1778163802252-18": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which sorting algorithm repeatedly compares adjacent elements?",
+      "options": [
+        "Merge Sort",
+        "Bubble Sort",
+        "Quick Sort",
+        "Heap Sort"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-18"
+    },
+    "zoho-1778163802252-19": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which keyword is used to define a function in Python?",
+      "options": [
+        "function",
+        "define",
+        "def",
+        "method"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-19"
+    },
+    "zoho-1778163802252-20": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which language is primarily used for web page structure?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Python"
+      ],
+      "correct": 1,
+      "expReward": 50,
+      "id": "zoho-1778163802252-20"
+    },
+    "zoho-1778163802252-21": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "What does DBMS stand for?",
+      "options": [
+        "Database Management System",
+        "Data Backup Management Server",
+        "Digital Base Management System",
+        "Database Monitoring Service"
+      ],
+      "correct": 0,
+      "expReward": 50,
+      "id": "zoho-1778163802252-21"
+    },
+    "zoho-1778163802252-22": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which protocol is secure for websites?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-22"
+    },
+    "zoho-1778163802252-23": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which database is a NoSQL database?",
+      "options": [
+        "MySQL",
+        "Oracle",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "correct": 3,
+      "expReward": 50,
+      "id": "zoho-1778163802252-23"
+    },
+    "zoho-1778163802252-24": {
+      "company": "ZOHO",
+      "type": "Technical",
+      "text": "Which JavaScript keyword declares a constant?",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "define"
+      ],
+      "correct": 2,
+      "expReward": 50,
+      "id": "zoho-1778163802252-24"
+    }
+  },
+  "requests": {
+    "1778168112233": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778168112233",
+      "status": "approved"
+    },
+    "1778168331830": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778168331830",
+      "status": "rejected"
+    },
+    "1778168392201": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778168392201",
+      "status": "rejected"
+    },
+    "1778168545415": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778168545415",
+      "status": "rejected"
+    },
+    "1778168969283": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778168969283",
+      "status": "rejected"
+    },
+    "1778169130084": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778169130084",
+      "status": "rejected",
+      "timestamp": "7/5/2026, 9:22:10 pm"
+    },
+    "1778169147664": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778169147664",
+      "status": "approved",
+      "timestamp": "7/5/2026, 9:22:27 pm"
+    },
+    "1778169182054": {
+      "userId": "abc24abc123@skasc.ac.in",
+      "userName": "Abc",
+      "id": "1778169182054",
+      "status": "approved",
+      "timestamp": "7/5/2026, 9:23:02 pm"
+    }
+  },
+  "logs": [
+    {
+      "action": "System Wipe",
+      "details": "All user data wiped.",
+      "timestamp": "2026-05-02T11:32:52.367Z"
+    },
+    {
+      "action": "Question Bank Wiped",
+      "details": "Admin deleted all questions.",
+      "timestamp": "2026-05-07T13:28:50.063Z"
+    },
+    {
+      "action": "Bulk Question Delete",
+      "details": "Admin deleted 1 questions for company: StartupInc.",
+      "timestamp": "2026-05-07T14:04:56.573Z"
+    },
+    {
+      "action": "Question Bank Wiped",
+      "details": "Admin deleted all questions.",
+      "timestamp": "2026-05-07T14:05:01.131Z"
+    },
+    {
+      "action": "Permission Rejected",
+      "details": "Edit access denied for Abc.",
+      "timestamp": "2026-05-07T15:51:58.712Z"
+    },
+    {
+      "action": "Permission Rejected",
+      "details": "Edit access denied for Abc.",
+      "timestamp": "2026-05-07T15:51:59.929Z"
+    },
+    {
+      "action": "Permission Rejected",
+      "details": "Edit access denied for Abc.",
+      "timestamp": "2026-05-07T15:52:00.944Z"
+    },
+    {
+      "action": "Permission Rejected",
+      "details": "Edit access denied for Abc.",
+      "timestamp": "2026-05-07T15:52:03.001Z"
+    },
+    {
+      "action": "Permission Requested",
+      "details": "Abc requested edit access.",
+      "timestamp": "2026-05-07T15:52:10.213Z"
+    },
+    {
+      "action": "Permission Granted",
+      "details": "Edit access granted to Abc.",
+      "timestamp": "2026-05-07T15:52:18.813Z"
+    },
+    {
+      "action": "Permission Rejected",
+      "details": "Edit access denied for Abc.",
+      "timestamp": "2026-05-07T15:52:20.883Z"
+    },
+    {
+      "action": "Permission Requested",
+      "details": "Abc requested edit access.",
+      "timestamp": "2026-05-07T15:52:27.678Z"
+    },
+    {
+      "action": "Permission Granted",
+      "details": "Edit access granted to Abc.",
+      "timestamp": "2026-05-07T15:52:34.422Z"
+    },
+    {
+      "action": "Permission Requested",
+      "details": "Abc requested edit access.",
+      "timestamp": "2026-05-07T15:53:02.062Z"
+    },
+    {
+      "action": "Permission Granted",
+      "details": "Edit access granted to Abc.",
+      "timestamp": "2026-05-07T15:53:07.962Z"
+    }
+  ]
+}
